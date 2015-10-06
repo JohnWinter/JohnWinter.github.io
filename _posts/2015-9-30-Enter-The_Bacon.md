@@ -64,11 +64,13 @@ Key forecaster 2: Quality (Metacritic Score)
 
 Once we feed these features into a best fit model we find out the following:
 
-metacritic/budget training score 0.434422310815
-nudity level added score **0.473791747823**
+-metacritic/budget training score 0.434422310815
 
-metacritic/budget test score **0.267712588339**
-nudity level added test score 0.264120598801
+-nudity level added score **0.473791747823**
+
+-metacritic/budget test score **0.267712588339** 
+
+-nudity level added test score 0.264120598801
 
 This means that while nudity score seemed to help increase fit in the training set it actually reduced the model's ability to forecast gross in the test set. 
 

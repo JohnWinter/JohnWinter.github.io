@@ -2,9 +2,6 @@
 layout: post
 title: Male Nudity
 ---
-![enter](https://myrambling20s.files.wordpress.com/2014/09/adaxr8obgt8cz0d5hp4uuzgibrw.jpg)
-***[Enter the Void - this is the movie that got me thinking about male nudity in film](http://www.imdb.com/title/tt1191111/)***
-
 
 **QUESTION:** 
 Does the proportion of male nudity to all nudity have an impact on film popularity? 
